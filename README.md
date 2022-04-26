@@ -2,6 +2,9 @@
 
 Gerador de QRCode.
 
+### Link
+[Site](https://pedrobicudo.github.io/qrcode-generator/)
+
 ### Motivação
 - Praticar o que aprendi de Angular até agora.
 - Eu queria abrir alguns links específicos do computador no celular.
